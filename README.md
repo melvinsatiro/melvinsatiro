@@ -1,16 +1,7 @@
 ### Olá! Eu sou o Melvin Satiro 👋🏾
 
 Desenvolvedor focado em soluções robustas com Java e automação de infraestrutura Linux.
----
 
-## 📊 Minhas Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvinsatiro&layout=donut&theme=highcontrast&hide_border=true&langs_count=5" alt="Linguagens mais usadas" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=melvinsatiro&show_icons=true&theme=highcontrast&hide_border=true" alt="Estatísticas Gerais" width="45%" />
-</p>
-
----
 ---
 
 ## 🛠 Tecnologias que eu utilizo
@@ -22,9 +13,16 @@ Desenvolvedor focado em soluções robustas com Java e automação de infraestru
   <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E94333?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
 
-Markdown
+---
 
+## 📊 Minhas Estatísticas
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvinsatiro&layout=donut&theme=highcontrast&hide_border=true&langs_count=5" alt="Gráfico de Pizza - Linguagens" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=melvinsatiro&show_icons=true&theme=highcontrast&hide_border=true" alt="Estatísticas Gerais" />
+</p>
+
+---
 
 ## 📫 Redes Sociais e Contato
 

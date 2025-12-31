@@ -13,13 +13,23 @@ Desenvolvedor focado em soluções robustas com Java e automação de infraestru
   <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E94333?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
 
+Para criar um gráfico em formato de pizza (donut) que exiba suas linguagens mais utilizadas, utilizaremos a integração do GitHub Readme Stats. Como as imagens anteriores apresentaram erro de carregamento, ajustaremos a sintaxe para garantir que o GitHub renderize o gráfico corretamente.
+
+📊 Novo Layout de Estatísticas (Gráfico de Pizza)
+Substitua a seção de estatísticas do seu README.md por este código:
+
+Markdown
+
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Minhas Estatísticas
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=melvinsatiro&show_icons=true&theme=highcontrast" alt="Melvin GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvinsatiro&layout=donut-vertical&theme=highcontrast" alt="Top Langs" height="150" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvinsatiro&layout=donut&theme=highcontrast&hide_border=true&langs_count=5" alt="Linguagens mais usadas" height="200" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=melvinsatiro&show_icons=true&theme=highcontrast&hide_border=true" alt="Estatísticas Gerais" height="150" />
 </p>
 
 ---

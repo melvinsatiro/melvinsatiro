@@ -11,13 +11,15 @@
 
 ---
 
-### 📊 Minhas Estatísticas
+
+## 📊 Minhas Estatísticas
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvinsatiro&layout=donut&theme=highcontrast&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=melvinsatiro&show_icons=true&theme=highcontrast&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=melvinsatiro&layout=donut&theme=highcontrast&hide_border=true" alt="Gráfico de Pizza" />
+  <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=melvinsatiro&show_icons=true&theme=highcontrast&hide_border=true" alt="Estatísticas Gerais" />
 </p>
 
+---
 ---
 
 ### 🛠️ Linguagens e Ferramentas

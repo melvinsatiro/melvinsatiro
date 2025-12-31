@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Melvin Satiro 👋🏾
 
-Desenvolvedor focado em soluções robustas com Java e automação de servidores Linux.
+Desenvolvedor focado em soluções robustas com Java e automação de infraestrutura Linux.
 
 ---
 
@@ -17,8 +17,10 @@ Desenvolvedor focado em soluções robustas com Java e automação de servidores
 
 ## 📊 Estatísticas do GitHub
 
-![Melvin GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=melvinsatiro&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melvinsatiro&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=melvinsatiro&show_icons=true&theme=highcontrast" alt="Melvin GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvinsatiro&layout=donut-vertical&theme=highcontrast" alt="Top Langs" height="150" />
+</p>
 
 ---
 

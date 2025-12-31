@@ -42,4 +42,6 @@
   <a href="mailto:satiro118@gmail.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
   </a>
+</p><p align="center">
+  <img src="https://raw.githubusercontent.com/melvinsatiro/melvinsatiro/output/snake-java.gif?v=1" alt="GitHub Snake Java" />
 </p>

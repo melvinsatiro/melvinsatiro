@@ -13,11 +13,6 @@ Desenvolvedor focado em soluções robustas com Java e automação de infraestru
   <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E94333?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
 
-Para criar um gráfico em formato de pizza (donut) que exiba suas linguagens mais utilizadas, utilizaremos a integração do GitHub Readme Stats. Como as imagens anteriores apresentaram erro de carregamento, ajustaremos a sintaxe para garantir que o GitHub renderize o gráfico corretamente.
-
-📊 Novo Layout de Estatísticas (Gráfico de Pizza)
-Substitua a seção de estatísticas do seu README.md por este código:
-
 Markdown
 
 ---
